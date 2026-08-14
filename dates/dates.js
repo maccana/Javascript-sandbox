@@ -6,5 +6,4 @@ function getFutureDate(year, month, day) {
     console.log('Future date: ', futureDate)
 }
 
-
 console.log(getFutureDate(2023, 0, 8))
